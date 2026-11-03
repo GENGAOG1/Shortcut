@@ -120,7 +120,7 @@ h1 {
 </div>
 
 <div class="final" id="final">
-    YOU SHOULD NOT BE HERE.
+   HOW DID YOU FIND THIS? YOU SHOULD NOT BE HERE. BUT YOU CAN STAY. YOUR DATA IS ALREADY MINE. :)
 </div>
 
 </div>
